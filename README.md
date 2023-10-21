@@ -21,8 +21,8 @@ export PATH=$PATH:~/go/bin
 
 # If problem during install 
 export GO111MODULE=auto 
+go get -u github.com/rossigno1/gopatate
 
-# and do install again
 ```
 
 # Pre-requisite

@@ -14,7 +14,7 @@ Yes you can improve it in many ways, BUT remember to avoid dependencies of non-n
 # Install
 
 ```bash
-go get install github.com/po0lpy0x0c/gopatate@latest
+go get install github.com/rossigno1/gopatate@latest
 
 # You add your go/bin folder to your binary path 
 export PATH=$PATH:~/go/bin
